@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { RiCloseLine, RiMenu3Line } from "react-icons/ri";
 
 import "../Css/Navbar.css";
 import logo from "../assets/logo (3).svg";
